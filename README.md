@@ -10,3 +10,5 @@ You can check it through different ways:
 - request.py: this script uses requests python library to send POST method to the model
 - Curl: you can use curl from a terminal in your computer (please be careful with the differences for curl between linux/windows)
 - Talend: you can use any API tester helper in your browser.
+
+ok
